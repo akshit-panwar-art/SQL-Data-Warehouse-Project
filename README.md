@@ -34,10 +34,10 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ...
 
-##🛡️License
+## 🛡️ License
 This project is licensed under the MIT License (LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-##💥 About Me
+## 💥 About Me
 
 
 Hi there! I’m Akshit Panwar — an MBA candidate from IIT Roorkee, passionate about operations, supply chain, and data-driven problem solving. I love turning real-world challenges into practical, impactful solutions.

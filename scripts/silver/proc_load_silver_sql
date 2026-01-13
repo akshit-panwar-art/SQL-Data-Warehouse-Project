@@ -1,4 +1,4 @@
-/* 
+/*
 ================================================================================
   Stored Procedure: Silver.load_silver
   Layer: Bronze → Silver
@@ -21,6 +21,7 @@ usage example:
     Exec silver.load_silver;
 ================================================================================
 */
+
 
 CREATE OR ALTER PROCEDURE silver.load_silver
 AS

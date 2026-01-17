@@ -3,7 +3,7 @@
 Welcome to the **Data Warehouse and analytics Project** repository!
 This Project demonstrates a comprehensive Data Warehouse and analytics Solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project highlights industry best practices in data engineerring and analytics.
 
-
+![image alt]([image_url](https://github.com/akshit-panwar-art/SQL-Data-Warehouse-Project/blob/00dfd29c1edc1df01f6f3d37ca2068ecd951c718/SQL.png))
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
